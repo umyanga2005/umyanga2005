@@ -49,7 +49,6 @@
 ### 🔹 Skills Breakdown (Pie Chart)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=umyanga2005&repo=School-AL-Management-System&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=umayanga2005&theme=tokyonight" height="150"/>
 </p>
 
 ---
