@@ -64,7 +64,7 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://www.fiverr.com/umayanga563">
-    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" width="80" alt="Fiverr"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" width="40" alt="Fiverr"/>
   </a>
   <a href="https://www.facebook.com/umayanga.karunarathna.9">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
