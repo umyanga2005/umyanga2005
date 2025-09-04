@@ -71,13 +71,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=umyanga2005&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <p>
   <a href="https://www.fiverr.com/umayanga563"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
